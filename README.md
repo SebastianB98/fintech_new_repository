@@ -1,6 +1,6 @@
 # This is the edited version of README.md
 ---
-![This is a cute picture of a Quokka] (/Users/sebastiancasasola/Desktop/Intro_to_FinTech/first_fintech_repository/fintech_new_repository/images)
+! [This is a cute picture of a Quokka] (/Users/sebastiancasasola/Desktop/Intro_to_FinTech/first_fintech_repository/fintech_new_repository/images/Quokka.jpeg)
 ---
 ## Quokkas Environment
 ### Quokkas are native to Australia 
